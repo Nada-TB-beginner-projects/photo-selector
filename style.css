@@ -1,0 +1,55 @@
+main{
+	width: 800px;
+	margin: 10px auto;
+}
+
+
+span{
+	color: red;
+	font-weight: bold;
+}
+
+li {
+	list-style: none;
+	padding: 10px;
+	border-radius: 15px;
+	transition: background-color 1s;
+	
+}
+
+
+li:hover{
+	background-color: grey;
+	
+}
+
+
+img{
+	max-width: 100%;
+}
+
+
+#photo-list {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 20px;
+}
+
+
+h1{
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+.selected{
+	background-color: green;
+}
+
+#photo-list li.selected{
+	background-color: green;
+}
