@@ -1,5 +1,5 @@
 main{
-	width: 90%;
+	width: 80%;
 	margin: 10px auto;
 }
 
@@ -34,7 +34,7 @@ img{
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: space-between;
-	margin: 20px;
+	margin: 20px auto;
 	width:90%;
 }
 
