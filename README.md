@@ -13,6 +13,6 @@
 CSS | javascript
 -----|----------
 transition | DOM document
- |          | DOM methods
-  |         | Events
+ Flex box        | DOM methods
+  responsive design      | Events
   |         | loop for
